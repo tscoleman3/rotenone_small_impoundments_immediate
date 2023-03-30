@@ -1,0 +1,54 @@
+lake,year,ba,type,size,times_treat,type_times_treat
+ae1,2017,before,control,1.6,0,control
+ae1,2018,after,control,1.6,0,control
+ae1,2019,after,control,1.6,0,control
+anderson county lake,2017,before,control,2.8,0,control
+anderson county lake,2018,after,control,2.8,0,control
+barbour county lake,2016,before,treat,34,0,treat1
+barbour county lake,2017,before,treat,34,0,treat1
+barbour county lake,2018,after,treat,34,1,treat1
+big pit,2017,before,control,11,0,control
+big pit,2018,after,control,11,0,control
+big pit,2019,after,control,11,0,control
+britton,2018,before,treat,2.2,0,treat1
+britton,2019,after,treat,2.2,1,treat1
+dale county lake,2017,before,control,36,0,control
+dale county lake,2018,after,control,36,0,control
+dale county lake,2019,after,control,36,0,control
+dead,2018,before,treat,2.2,0,treat1
+dead,2019,after,treat,2.2,1,treat1
+drummond1,2016,before,treat,8.7,0,treat1
+drummond1,2018,before,treat,8.7,0,treat1
+drummond1,2019,after,treat,8.7,1,treat1
+drummond3,2016,before,control,8.8,0,control
+drummond3,2018,before,control,8.8,0,control
+drummond3,2019,after,control,8.8,0,control
+fp3,2017,before,control,0.7,0,control
+fp3,2018,after,control,0.7,0,control
+fp3,2019,after,control,0.7,0,control
+griggs2,2018,before,treat,5.3,0,treat1
+griggs2,2019,after,treat,5.3,1,treat1
+horseshoe pond,2017,before,treat,1.3,0,treat2
+horseshoe pond,2018,after,treat,1.3,1,treat2
+horseshoe pond,2019,after,treat,1.3,2,treat2
+lee county lake,2016,before,control,48,0,control
+lee county lake,2017,before,control,48,0,control
+lee county lake,2018,after,control,48,0,control
+little pit,2017,before,treat,4,0,treat2
+little pit,2018,after,treat,4,1,treat2
+little pit,2019,after,treat,4,2,treat2
+lm,2018,before,control,3.4,0,control
+lm,2019,after,control,3.4,0,control
+mark,2018,before,control,3.3,0,control
+mark,2019,after,control,3.3,0,control
+monroe county lake,2017,before,treat,34,0,treat2
+monroe county lake,2018,after,treat,34,1,treat2
+monroe county lake,2019,after,treat,34,2,treat2
+promise,2018,before,control,1.9,0,control
+promise,2019,after,control,1.9,0,control
+s3,2017,before,treat,4,0,treat2
+s3,2018,after,treat,4,1,treat2
+s3,2019,after,treat,4,2,treat2
+washington county lake,2016,before,treat,38,0,treat1
+washington county lake,2017,before,treat,38,0,treat1
+washington county lake,2018,after,treat,38,1,treat1

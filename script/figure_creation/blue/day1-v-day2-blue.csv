@@ -1,0 +1,113 @@
+"lake","period","type","event","year","count"
+"ae1","after","control",1,2017,248
+"anderson county lake","after","control",1,2017,317
+"big pit","after","control",1,2017,933
+"dale county lake","after","control",1,2017,686
+"fp3","after","control",1,2017,2488
+"lee county lake","after","control",1,2017,323
+"ae1","before","control",1,2017,404
+"anderson county lake","before","control",1,2017,315
+"big pit","before","control",1,2017,1675
+"dale county lake","before","control",1,2017,1365
+"fp3","before","control",1,2017,2537
+"lee county lake","before","control",1,2017,601
+"barbour county lake","after","treat",1,2017,252
+"horseshoe pond","after","treat",1,2017,150
+"little pit","after","treat",1,2017,499
+"monroe county lake","after","treat",1,2017,987
+"s3","after","treat",1,2017,419
+"washington county lake","after","treat",1,2017,919
+"barbour county lake","before","treat",1,2017,2177
+"horseshoe pond","before","treat",1,2017,666
+"little pit","before","treat",1,2017,1171
+"monroe county lake","before","treat",1,2017,3055
+"s3","before","treat",1,2017,2967
+"washington county lake","before","treat",1,2017,3650
+"ae1","after","control",2,2017,451
+"anderson county lake","after","control",2,2017,338
+"big pit","after","control",2,2017,1256
+"dale county lake","after","control",2,2017,1012
+"fp3","after","control",2,2017,1581
+"lee county lake","after","control",2,2017,967
+"ae1","before","control",2,2017,401
+"anderson county lake","before","control",2,2017,484
+"big pit","before","control",2,2017,1412
+"dale county lake","before","control",2,2017,1178
+"fp3","before","control",2,2017,1432
+"lee county lake","before","control",2,2017,786
+"barbour county lake","after","treat",2,2017,1592
+"horseshoe pond","after","treat",2,2017,18
+"little pit","after","treat",2,2017,674
+"monroe county lake","after","treat",2,2017,950
+"s3","after","treat",2,2017,477
+"washington county lake","after","treat",2,2017,1164
+"barbour county lake","before","treat",2,2017,3744
+"horseshoe pond","before","treat",2,2017,472
+"little pit","before","treat",2,2017,1357
+"monroe county lake","before","treat",2,2017,1790
+"s3","before","treat",2,2017,2522
+"washington county lake","before","treat",2,2017,4629
+"ae1","after","control",1,2018,152
+"big pit","after","control",1,2018,954
+"dale county lake","after","control",1,2018,55
+"drummond3","after","control",1,2018,117
+"fp3","after","control",1,2018,917
+"lm","after","control",1,2018,513
+"mark","after","control",1,2018,51
+"promise","after","control",1,2018,206
+"ae1","before","control",1,2018,224
+"big pit","before","control",1,2018,1720
+"dale county lake","before","control",1,2018,150
+"drummond3","before","control",1,2018,162
+"fp3","before","control",1,2018,1142
+"lm","before","control",1,2018,1092
+"mark","before","control",1,2018,58
+"promise","before","control",1,2018,282
+"britton","after","treat",1,2018,93
+"dead","after","treat",1,2018,0
+"drummond1","after","treat",1,2018,669
+"griggs2","after","treat",1,2018,60
+"horseshoe pond","after","treat",1,2018,140
+"little pit","after","treat",1,2018,626
+"monroe county lake","after","treat",1,2018,249
+"s3","after","treat",1,2018,432
+"britton","before","treat",1,2018,502
+"dead","before","treat",1,2018,9
+"drummond1","before","treat",1,2018,2520
+"griggs2","before","treat",1,2018,366
+"horseshoe pond","before","treat",1,2018,900
+"little pit","before","treat",1,2018,3232
+"monroe county lake","before","treat",1,2018,3077
+"s3","before","treat",1,2018,2760
+"ae1","after","control",2,2018,663
+"big pit","after","control",2,2018,1447
+"dale county lake","after","control",2,2018,208
+"drummond3","after","control",2,2018,1490
+"fp3","after","control",2,2018,455
+"lm","after","control",2,2018,306
+"mark","after","control",2,2018,276
+"promise","after","control",2,2018,131
+"ae1","before","control",2,2018,1421
+"big pit","before","control",2,2018,2800
+"dale county lake","before","control",2,2018,1258
+"drummond3","before","control",2,2018,1283
+"fp3","before","control",2,2018,493
+"lm","before","control",2,2018,667
+"mark","before","control",2,2018,497
+"promise","before","control",2,2018,431
+"britton","after","treat",2,2018,1251
+"dead","after","treat",2,2018,1076
+"drummond1","after","treat",2,2018,1228
+"griggs2","after","treat",2,2018,312
+"horseshoe pond","after","treat",2,2018,137
+"little pit","after","treat",2,2018,53
+"monroe county lake","after","treat",2,2018,236
+"s3","after","treat",2,2018,626
+"britton","before","treat",2,2018,2989
+"dead","before","treat",2,2018,2572
+"drummond1","before","treat",2,2018,1262
+"griggs2","before","treat",2,2018,583
+"horseshoe pond","before","treat",2,2018,1126
+"little pit","before","treat",2,2018,879
+"monroe county lake","before","treat",2,2018,1310
+"s3","before","treat",2,2018,3364

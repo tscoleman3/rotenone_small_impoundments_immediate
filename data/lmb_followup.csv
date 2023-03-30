@@ -1,0 +1,29 @@
+"lake","period","type","event","year","size","count"
+"ae1","followup","control",3,2018,"small",43
+"anderson county lake","followup","control",3,2018,"small",28
+"big pit","followup","control",3,2018,"small",4
+"fp3","followup","control",3,2018,"small",10
+"horseshoe pond","followup","treat",3,2018,"small",0
+"little pit","followup","treat",3,2018,"small",0
+"s3","followup","treat",3,2018,"small",0
+"ae1","followup","control",3,2019,"small",69
+"big pit","followup","control",3,2019,"small",23
+"drummond3","followup","control",3,2019,"small",490
+"fp3","followup","control",3,2019,"small",100
+"lm","followup","control",3,2019,"small",26
+"mark","followup","control",3,2019,"small",67
+"promise","followup","control",3,2019,"small",5
+"britton","followup","treat",3,2019,"small",0
+"dead","followup","treat",3,2019,"small",0
+"drummond1","followup","treat",3,2019,"small",16
+"griggs2","followup","treat",3,2019,"small",11
+"horseshoe pond","followup","treat",3,2019,"small",6
+"little pit","followup","treat",3,2019,"small",29
+"s3","followup","treat",3,2019,"small",20
+"dale county lake","followup","control",3,2018,"big",39
+"lee county lake","followup","control",3,2018,"big",69
+"barbour county lake","followup","treat",3,2018,"big",27
+"monroe county lake","followup","treat",3,2018,"big",10
+"washington county lake","followup","treat",3,2018,"big",7
+"dale county lake","followup","control",3,2019,"big",195
+"monroe county lake","followup","treat",3,2019,"big",71
