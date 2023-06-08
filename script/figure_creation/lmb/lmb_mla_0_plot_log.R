@@ -1,5 +1,5 @@
 
-dat = read.csv("lmb_seine.csv", stringsAsFactors = F)
+dat = read.csv("data/lmb_seine.csv", stringsAsFactors = F)
 
 datsub = dat[dat$period %in% c("before", "followup") & dat$event %in% c(1,3),]
 unique(datsub$event)

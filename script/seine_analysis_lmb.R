@@ -599,6 +599,7 @@ hist(log(df$tl))
 
 # fit_mla0 = lmer(log(tl) ~ period * type * size + (1 | lake) + (1 | year), data = df, REML = F)
 fit_mla0 = lmer(log(tl) ~ period * type + (1 | lake) + (1 | year), data = df, REML = F)
+# fit_mla0 = lmer(log(tl) ~ relevel(period, ref = "followup") * type + (1 | lake) + (1 | year), data = df, REML = F)
 # fit_mla0 = lmer(log(tl) ~ period + type + (1 | lake) + (1 | year), data = df, REML = F)
 
 summary(fit_mla0)
