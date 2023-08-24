@@ -5,7 +5,6 @@ library(lme4)              # glmer
 library(nlme)              # lme
 library(lmerTest)          # lmer pvalues
 
-
 # setwd("~/Documents/git/rotenone")
 
 blue_dat = read.csv("data/3.27.19data.csv")
